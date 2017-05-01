@@ -2,4 +2,4 @@
 *.log
 config/app.php
 config/database.php
-
+storage
